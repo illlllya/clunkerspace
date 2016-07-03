@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Tin Comic</title>
+    <link>http://www.clunkerspace.com</link>
+    <description>A comic about two bickering robots on an adventure,</description>
+    <language>en-us</language>
+    <managingEditor>ilya@clunkerspace.com</managingEditor>
+    <webMaster>ilya@clunkerspace.com</webMaster>
+    <copyright>2014</copyright>
+    <image>
+      <title>Tin Comic</title>
+      <link>http://www.clunkerspace.com</link>
+      <url>http://clunkerspace.com/images/rsslogo.jpg</url>
+      <width>640</width>
+      <height>442</height>
+    </image>
+    <item>
+      <title>Page Sixteen</title>
+      <pubDate>Tue, 30 Sep 2014 10:01:51 -0400</pubDate>
+      <link>http://www.clunkerspace.com/page16.html</link>
+      <author>ilya@clunkerspace.com</author>
+      <category>comic</category>
+      <description><![CDATA[You're trapped in here with me]]></description>
+    </item>
+    <item>
+      <title>Page Fifteen</title>
+      <pubDate>Tue, 23 Sep 2014 10:01:13 -0400</pubDate>
+      <link>http://www.clunkerspace.com/page15.html</link>
+      <author>ilya@clunkerspace.com</author>
+      <category>comic</category>
+      <description><![CDATA[Something wicked this way comes]]></description>
+    </item>
+    <item>
+      <title>Page Forteen</title>
+      <pubDate>Tue, 16 Sep 2014 09:59:56 -0400</pubDate>
+      <link>http://www.clunkerspace.com/page14.html</link>
+      <author>ilya@clunkerspace.com</author>
+      <category>comic</category>
+      <description><![CDATA[The Creed?]]></description>
+    </item>
+    <item>
+      <title>Page Thirteen</title>
+      <pubDate>Tue, 9 Sep 2014 09:59:25 -0400</pubDate>
+      <link>http://www.clunkerspace.com/page13.html</link>
+      <author>ilya@clunkerspace.com</author>
+      <category>comic</category>
+      <description><![CDATA[The Creed!]]></description>
+    </item>
+    <item>
+      <title>Page Twelve</title>
+      <pubDate>Tue, 2 Sep 2014 09:58:46 -0400</pubDate>
+      <link>http://www.clunkerspace.com/page12.html</link>
+      <author>ilya@clunkerspace.com</author>
+      <category>comic</category>
+      <description><![CDATA[Why is it always snakes..]]></description>
+    </item>
+    <item>
+      <title>Page Eleven</title>
+      <pubDate>Tue, 26 Aug 2014 09:57:00 -0400</pubDate>
+      <link>http://www.clunkerspace.com/page11.html</link>
+      <author>ilya@clunkerspace.com</author>
+      <category>comic</category>
+      <description><![CDATA[I Can See My House From Here]]></description>
+    </item>
+    <item>
+      <title>Page Ten</title>
+      <pubDate>Tue, 19 Aug 2014 09:56:37 -0400</pubDate>
+      <link>http://www.clunkerspace.com/page10.html</link>
+      <author>ilya@clunkerspace.com</author>
+      <category>comic</category>
+      <description><![CDATA[Who says pages need borders?]]></description>
+    </item>
+    <item>
+      <title>Page Nine</title>
+      <pubDate>Tue, 12 Aug 2014 09:56:07 -0400</pubDate>
+      <link>http://www.clunkerspace.com/page9.html</link>
+      <author>ilya@clunkerspace.com</author>
+      <category>comic</category>
+      <description><![CDATA[Exasperation sensation]]></description>
+    </item>
+    <item>
+      <title>Page Eight</title>
+      <pubDate>Tue, 5 Aug 2014 09:55:23 -0400</pubDate>
+      <link>http://www.clunkerspace.com/page8.html</link>
+      <author>ilya@clunkerspace.com</author>
+      <category>comic</category>
+      <description><![CDATA[In Space.. No one can hear you complain]]></description>
+    </item>
+    <item>
+      <title>Page Seven</title>
+      <pubDate>Tue, 29 Jul 2014 09:54:45 -0400</pubDate>
+      <link>http://www.clunkerspace.com/page7.html</link>
+      <author>ilya@clunkerspace.com</author>
+      <category>comic</category>
+      <description><![CDATA[The Writing on the Screens]]></description>
+    </item>
+    <item>
+      <title>Page Six</title>
+      <pubDate>Tue, 22 Jul 2014 09:54:18 -0400</pubDate>
+      <link>http://www.clunkerspace.com/page6.html</link>
+      <author>ilya@clunkerspace.com</author>
+      <category>comic</category>
+      <description><![CDATA[The Writing on the Wall]]></description>
+    </item>
+    <item>
+      <title>Page Five</title>
+      <pubDate>Tue, 15 Jul 2014 09:52:03 -0400</pubDate>
+      <link>http://www.clunkerspace.com/page5.html</link>
+      <author>ilya@clunkerspace.com</author>
+      <category>comic</category>
+      <description><![CDATA[Meet your heroes]]></description>
+    </item>
+    <item>
+      <title>Page Four</title>
+      <pubDate>Tue, 8 Jul 2014 09:51:11 -0400</pubDate>
+      <link>http://www.clunkerspace.com/page4.html</link>
+      <author>ilya@clunkerspace.com</author>
+      <category>comic</category>
+      <description><![CDATA[Now with more hallway!]]></description>
+    </item>
+    <item>
+      <title>Page Three</title>
+      <pubDate>Tue, 1 Jul 2014 09:50:03 -0400</pubDate>
+      <link>http://www.clunkerspace.com/page3.html</link>
+      <guid isPermaLink="true">http://www.clunkerspace.com/page3.html</guid>
+      <author>ilya@clunkerspace.com</author>
+      <category>comic</category>
+      <description><![CDATA[Some hallways]]></description>
+    </item>
+    <item>
+      <title>Page Two</title>
+      <pubDate>Tue, 24 Jun 2014 09:49:35 -0400</pubDate>
+      <link>http://www.clunkerspace.com/page2.html</link>
+      <author>ilya@clunkerspace.com</author>
+      <category>comic</category>
+      <description><![CDATA[The Ship]]></description>
+    </item>
+    <item>
+      <title>Page One</title>
+      <pubDate>Tue, 17 Jun 2014 08:59:08 -0400</pubDate>
+      <link>http://www.clunkerspace.com/page1.html</link>
+      <author>ilya@clunkerspace.com</author>
+      <category>comic</category>
+      <description><![CDATA[Rob and A.L.I.C.E go on a dangerous adventure. If a bit unwillingly.]]></description>
+    </item>
+    <item>
+      <title>Prepage</title>
+      <pubDate>Tue, 17 Jun 2014 08:54:25 -0400</pubDate>
+      <link>http://www.clunkerspace.com</link>
+      <author>ilya@clunkerspace.com</author>
+      <category>comic</category>
+      <enclosure url="http://www.clunkerspace.com/images/prepage_rss.jpg" length="" type="image/jpeg" />
+      <description><![CDATA[Prepage!]]></description>
+    </item>
+  </channel>
+</rss>

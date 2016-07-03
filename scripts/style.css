@@ -1,0 +1,42 @@
+
+
+a {
+	text-decoration: none;
+	color: #FFFFFF;
+
+}
+
+.aclicked {
+	text-decoration: none;
+	color: #66B8DE;
+}
+
+div {
+	display: inline;
+	font-size: 19px;
+	font-family: sans-serif;
+}
+
+label {
+	font-size: 12px;
+}
+
+.nav {
+	display: inline;
+	font-size: 19px;
+	font-family: sans-serif;
+}
+
+.mainImage {
+	display: block;
+}
+
+/*.location {
+	display: block;
+	position:absolute;
+	padding: 5px;
+	color: white;
+	opacity: .5;
+	font-size: .8em;
+	background-color: gray;
+}*/
